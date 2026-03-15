@@ -46,6 +46,25 @@ Create visualizations by using Matplotlib/Seaborn to identify trends and pattern
 *   **Python** (Pandas, Matplotlib/Seaborn, Plotly) for data manipulation and visualization.
 *   **Google Colab** for the analysis notebook.
 
+## 📝 Results
+
+* Games priced below $200 generally attract more players.
+
+* Continuous engagement metrics (e.g., frequency of play) are more correlated with popularity than initial purchases.
+
+* Negative reviews do not strongly influence overall popularity.
+
+* Certain game features and genres show higher player retention, highlighting what keeps users coming back.
+
+## 💡 Recommendations
+
+* Design games that encourage long-term engagement rather than one-time play. Consider features like daily challenges, achievements, or multiplayer modes.
+
+* Maintain accessible pricing—keep most games under $200 to attract a wider player base.
+
+* Focus on player experience over negative review management; improving engagement is more impactful than solely addressing negative comments.
+
+* Use data-driven insights from player behavior to guide future game development and updates.
 
 ## 📁 Files Included
 *   **`Game_Analyze.ipynb`**: A Jupyter Notebook (created with Google Colab) containing the code for data analysis, including data cleaning, exploration, and visualization to uncover trends and correlations related to game popularity.
