@@ -5,16 +5,16 @@
 
 
 
-📊**Executive Summary**
+## 📊Executive Summary
 
 This project analyzes gaming data to identify factors that may influence a game's popularity. Through data exploration and visualization, the study investigates patterns between game characteristics and player engagement. The analysis demonstrates how data insights can help better understand trends in the gaming industry.
 
-💼**Business Problem**
+## 💼Business Problem
 
 The gaming industry releases thousands of games every year, making it challenging for developers and publishers to predict which games will become popular. Understanding the characteristics associated with successful games can help companies design better products and improve market performance.
 ⚙️Methodology
 
-📥**Data Preparation**
+## 📥Data Preparation
 
 1. Load the gaming dataset into a Jupyter Notebook environment
 
@@ -22,17 +22,17 @@ The gaming industry releases thousands of games every year, making it challengin
 
 3. Retained only the relevant columns required for the analysis.
 
-🔍**Exploratory Data Analysis**
+## 🔍Exploratory Data Analysis
 
 1. Analyze distributions of key variables related to games
 
 2. Explore relationships between game features and popularity metrics
 
-📈**Data Visualization**
+## 📈Data Visualization
 
-Create visualizations to identify trends and patterns in the data
+Create visualizations by using Matplotlib/Seaborn to identify trends and patterns in the data
 
-🔑 **Key Insights**
+## 🔑Key Insights
 
 1. Encouraging continuous gameplay is critical for popularity. Games that keep players engaged over time are more likely to maintain higher activity levels compared to games that are purchased but rarely played afterward.
 
@@ -42,13 +42,14 @@ Create visualizations to identify trends and patterns in the data
 
 4. Player engagement metrics provide more meaningful insights than purchase metrics alone. Understanding how frequently players return to a game can be more valuable than simply analyzing purchase numbers.
 
-## 📁 Files Included
-*   **`Game_Analyze.ipynb`**: A Jupyter Notebook (created with Google Colab) containing the code for data analysis, including data cleaning, exploration, and visualization to uncover trends and correlations related to game popularity.
-*   *(Note: I included a link of the dataset in the Game_Analyze.ipynb file, the dataset file was too big to upload in the github)*
-
 ## 🛠️ Tools Used
 *   **Python** (Pandas, Matplotlib/Seaborn, Plotly) for data manipulation and visualization.
 *   **Google Colab** for the analysis notebook.
+
+
+## 📁 Files Included
+*   **`Game_Analyze.ipynb`**: A Jupyter Notebook (created with Google Colab) containing the code for data analysis, including data cleaning, exploration, and visualization to uncover trends and correlations related to game popularity.
+*   *(Note: I included a link of the dataset in the Game_Analyze.ipynb file, the dataset file was too big to upload in the github)*
 
 ## 🚀 How to Use This Project
 1.  **Obtain a Dataset**: To run the notebook, you need to use the dataset I mentioned in the Game_Analyze.ipynb file. Ensure it's saved in the same directory as the notebook or update the file path in the code.
